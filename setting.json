@@ -1,8 +1,8 @@
 {
-  "name-web":"Premium Computer World",
+  "name-web":"The Game new",
   "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://www.computerworld.com",
+  "target":"https://www.thegamer.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
