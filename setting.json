@@ -1,8 +1,8 @@
 {
-  "name-web":"Best Login Note",
+  "name-web":"Best Games Radar",
   "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://www.loginnote.com",
+  "target":"https://www.gamesradar.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",

@@ -1,8 +1,8 @@
 {
-  "name-web":"Best Game Rant",
+  "name-web":"Best Login Note",
   "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://gamerant.com",
+  "target":"https://www.loginnote.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
