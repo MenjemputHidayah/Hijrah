@@ -1,8 +1,8 @@
 {
-  "name-web":"Premium Computer World",
+  "name-web":"Best Game Rant",
   "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://www.computerworld.com",
+  "target":"https://gamerant.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -59,7 +59,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"29F3FBAD8C45F1E975C33C41279225BD"
+          "value-attribute":"ACDA532A906BFE87EC93D2AB41BC7923"
         }
       ],
       "data-innerHTML":"",
